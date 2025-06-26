@@ -2,6 +2,12 @@
 
 ## How to Run
 
+- Clone repository
+- Extract RAR file
+- Open BIOFIGHTERS.exe
+- Have fun!
+  **NOTE: Might have to disable antivirus, as it is falsely recognized as a trojan by some**
+
 
 ## Overview
 **BIOFIGHTERS** is an action-packed educational game that immerses players in the world of the immune system. Players take control of different immune cells, each with unique roles, to defend the body against increasingly dangerous pathogens. The game is structured into two mini-games and one larger level, forming a continuous cycle that mimics real immune responses.
