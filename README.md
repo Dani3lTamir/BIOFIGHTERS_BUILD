@@ -6,7 +6,8 @@
 - Extract RAR file
 - Open BIOFIGHTERS.exe
 - Have fun!
-  **NOTE: Might have to disable antivirus, as it is falsely recognized as a trojan by some**
+  
+  **NOTE: Might have to disable antivirus, as it is falsely recognized as a trojan by some.**
 
 
 ## Overview
